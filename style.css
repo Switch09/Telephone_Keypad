@@ -1,0 +1,21 @@
+#container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -150px;
+  }
+
+#dialer{
+    font-size:27px;
+    font-family: "Monaco", monospace;
+    width: 320px;
+    height: 35px;
+}
+
+button{
+    margin-top: 7px;
+    margin-left: 14px;
+    width:87px;
+    height:60px;
+}
